@@ -1,4 +1,3 @@
-# ignore all .log files
-# ignore allfiles in any directory named temp temp/
 # ignore files with .jpeg extension
- 
+ *.jpeg
+ *.jng
